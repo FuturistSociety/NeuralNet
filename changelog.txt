@@ -1,0 +1,11 @@
+Version 1.0:
+	- initial release of neuralnet, node, and gui packages
+	
+Version 1.1:
+	- initial release of evolve package
+	- fixed learning and backpropagation bugs
+	- Node and Network classes extend Thread
+	- added adjacency matrix and network/graph theory metrics
+	- added javadocs
+	- added src
+	
